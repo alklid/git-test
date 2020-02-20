@@ -5,6 +5,7 @@ public class Hello {
 		System.out.println("HelloWorld");
 		System.out.println("git-test1");
 		System.out.println("git-test2");
+		System.out.println("feature : COL-8489 complete!!!");
         System.out.println("col-1124 complete");
 	}
 
